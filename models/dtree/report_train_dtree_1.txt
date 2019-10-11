@@ -1,0 +1,7 @@
+ Accuracy :1.0
+ AP:       1.0
+ F1-score :1.0
+ Log-Loss :9.992007221626413e-16
+ Precision:1.0
+ Recall   :1.0
+ AUC      :1.0
